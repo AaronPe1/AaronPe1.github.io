@@ -1,0 +1,245 @@
+[
+  {
+    "id": "404A8889",
+    "title": "寸步不让",
+    "category": "action",
+    "width": 5621,
+    "height": 3162,
+    "match": "fcc0418",
+    "kind": "single"
+  },
+  {
+    "id": "404A0796",
+    "title": "起脚的一瞬",
+    "category": "action",
+    "width": 6181,
+    "height": 4121,
+    "match": "fcc0418",
+    "kind": "single"
+  },
+  {
+    "id": "404A9713",
+    "title": "争夺制空权",
+    "category": "action",
+    "width": 6960,
+    "height": 4640,
+    "match": "fcc0418",
+    "kind": "single"
+  },
+  {
+    "id": "404A9288",
+    "title": "属于我们的时刻",
+    "category": "action",
+    "width": 5860,
+    "height": 3907,
+    "match": "fcc0418",
+    "kind": "single"
+  },
+  {
+    "id": "404A0253",
+    "title": "让看台听见",
+    "category": "action",
+    "width": 2250,
+    "height": 3375,
+    "match": "fcc0418",
+    "kind": "single"
+  },
+  {
+    "id": "404A9397",
+    "title": "十二码前",
+    "category": "action",
+    "width": 3847,
+    "height": 2164,
+    "match": "fcc0418",
+    "kind": "single"
+  },
+  {
+    "id": "404A0274",
+    "title": "热爱升腾",
+    "category": "stands",
+    "width": 6786,
+    "height": 4524,
+    "match": "fcc0418",
+    "kind": "single"
+  },
+  {
+    "id": "404A0465",
+    "title": "同一种心跳",
+    "category": "stands",
+    "width": 4693,
+    "height": 3129,
+    "match": "fcc0418",
+    "kind": "single"
+  },
+  {
+    "id": "404A9575",
+    "title": "从小就开始的热爱",
+    "category": "stands",
+    "width": 6960,
+    "height": 4640,
+    "match": "fcc0418",
+    "kind": "single"
+  },
+  {
+    "id": "404A9537",
+    "title": "为球队举杯",
+    "category": "stands",
+    "width": 6960,
+    "height": 4640,
+    "match": "fcc0418",
+    "kind": "single"
+  },
+  {
+    "id": "404A0094",
+    "title": "边线之外",
+    "category": "sideline",
+    "width": 4253,
+    "height": 2835,
+    "match": "fcc0418",
+    "kind": "single"
+  },
+  {
+    "id": "404A0851",
+    "title": "一次换人",
+    "category": "sideline",
+    "width": 5835,
+    "height": 3282,
+    "match": "fcc0418",
+    "kind": "single"
+  },
+  {
+    "id": "404A8464",
+    "title": "等待开场",
+    "category": "sideline",
+    "width": 3788,
+    "height": 2131,
+    "match": "fcc0418",
+    "kind": "single"
+  },
+  {
+    "id": "404A9562",
+    "title": "比赛继续",
+    "category": "sideline",
+    "width": 3813,
+    "height": 2145,
+    "match": "fcc0418",
+    "kind": "single"
+  },
+  {
+    "id": "1E2A9459",
+    "title": "并肩，等待开场",
+    "category": "sideline",
+    "match": "fcc0301",
+    "kind": "single",
+    "width": 5440,
+    "height": 3627
+  },
+  {
+    "id": "1E2A0169-2",
+    "title": "灯光下的推进",
+    "category": "action",
+    "match": "fcc0301",
+    "kind": "single",
+    "width": 6960,
+    "height": 4640
+  },
+  {
+    "id": "1E2A0174",
+    "title": "沿着边线向前",
+    "category": "action",
+    "match": "fcc0301",
+    "kind": "single",
+    "width": 6307,
+    "height": 4205
+  },
+  {
+    "id": "1E2A0028",
+    "title": "狭路相逢",
+    "category": "action",
+    "match": "fcc0301",
+    "kind": "single",
+    "width": 3947,
+    "height": 2631
+  },
+  {
+    "id": "1E2A9683",
+    "title": "触球之前",
+    "category": "action",
+    "match": "fcc0301",
+    "kind": "single",
+    "width": 4215,
+    "height": 6744
+  },
+  {
+    "id": "1E2A9841",
+    "title": "紧贴的较量",
+    "category": "action",
+    "match": "fcc0301",
+    "kind": "single",
+    "width": 6532,
+    "height": 4355
+  },
+  {
+    "id": "1E2A9929",
+    "title": "全力起脚",
+    "category": "action",
+    "match": "fcc0301",
+    "kind": "single",
+    "width": 4501,
+    "height": 3001
+  },
+  {
+    "id": "1E2A9991",
+    "title": "迎面交锋",
+    "category": "action",
+    "match": "fcc0301",
+    "kind": "single",
+    "width": 5552,
+    "height": 3701
+  },
+  {
+    "id": "1E2A9934",
+    "title": "共享这一刻",
+    "category": "action",
+    "match": "fcc0301",
+    "kind": "single",
+    "width": 5028,
+    "height": 3352
+  },
+  {
+    "id": "1E2A0194",
+    "title": "场边的目光",
+    "category": "sideline",
+    "match": "fcc0301",
+    "kind": "single",
+    "width": 4445,
+    "height": 6668
+  },
+  {
+    "id": "story-40",
+    "title": "40 号 · 奔跑与交锋",
+    "category": "story",
+    "match": "fcc0301",
+    "kind": "collage",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "id": "story-penalty",
+    "title": "十二码 · 三帧叙事",
+    "category": "story",
+    "match": "fcc0418",
+    "kind": "collage",
+    "width": 1152,
+    "height": 1920
+  },
+  {
+    "id": "story-goal",
+    "title": "进球之后 · 三帧叙事",
+    "category": "story",
+    "match": "fcc0418",
+    "kind": "collage",
+    "width": 1152,
+    "height": 1920
+  }
+]
