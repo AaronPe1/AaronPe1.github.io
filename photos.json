@@ -108,15 +108,6 @@
     "kind": "single"
   },
   {
-    "id": "404A8464",
-    "title": "等待开场",
-    "category": "sideline",
-    "width": 3788,
-    "height": 2131,
-    "match": "fcc0418",
-    "kind": "single"
-  },
-  {
     "id": "404A9562",
     "title": "比赛继续",
     "category": "sideline",
@@ -205,15 +196,6 @@
     "kind": "single",
     "width": 5028,
     "height": 3352
-  },
-  {
-    "id": "1E2A0194",
-    "title": "场边的目光",
-    "category": "sideline",
-    "match": "fcc0301",
-    "kind": "single",
-    "width": 4445,
-    "height": 6668
   },
   {
     "id": "story-40",

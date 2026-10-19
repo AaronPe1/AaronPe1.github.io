@@ -1,7 +1,7 @@
 const labels={action:'比赛瞬间',stands:'看台之间',sideline:'场边视角',story:'视觉组照'};
 const matches={fcc0418:'FCC 04.18',fcc0301:'FCC 03.01'};
 const featuredIds=["404A9713","404A0274","404A0253","404A9288","404A0465","404A8889","1E2A9991","1E2A9934"];
-const series={featured:['近期视角，精选瞬间。','以近期比赛为主 · 球场与看台的现场记忆'],fcc0418:['看台与交锋 / FCC 04.18','14 张作品 · 球场、看台与边线之间'],fcc0301:['灯光下的比赛 / FCC 03.01','10 张作品 · 从赛前到交锋，再到庆祝']};
+const series={featured:['近期视角，精选瞬间。','以近期比赛为主 · 球场与看台的现场记忆'],fcc0418:['看台与交锋 / FCC 04.18','13 张作品 · 球场、看台与边线之间'],fcc0301:['灯光下的比赛 / FCC 03.01','9 张作品 · 从赛前到交锋，再到庆祝']};
 let photos=[],visible=[],current=0,lastFocus;
 const gallery=document.querySelector('#gallery'),box=document.querySelector('#lightbox'),stage=document.querySelector('.lightbox-stage'),zoomButton=document.querySelector('#zoomPhoto');
 function selection(filter){return filter==='featured'?featuredIds.map(id=>photos.find(p=>p.id===id)).filter(Boolean):photos.filter(p=>p.kind==='single'&&p.match===filter)}
