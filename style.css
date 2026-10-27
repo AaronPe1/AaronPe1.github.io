@@ -14,3 +14,6 @@ body{font-weight:500}.eyebrow{font-weight:500}.story-frame h4,.lightbox-bottom h
 
 /* AaronPe1 identity: shared vector master, responsive photo-first placement. */
 .brand{gap:0;flex-shrink:0;letter-spacing:normal}.brand-logo{display:block;width:108px;height:auto}.brand-sub{margin-left:20px}.footer-brand{display:flex;align-items:center;gap:18px;letter-spacing:normal}.footer-logo{display:block;width:82px;height:auto}.footer-brand span{margin-left:0}a.brand:hover,a.footer-brand:hover{opacity:.85}@media(max-width:760px){.brand-logo{width:86px}.footer-logo{width:72px}.footer-brand{gap:15px}}@media(max-width:340px){nav{gap:14px}.brand-logo{width:76px}}
+
+/* Keep four match tabs usable on narrow screens. */
+.filters{flex-wrap:wrap;row-gap:14px}.filter-row{gap:20px}.filter{white-space:nowrap}@media(max-width:760px){.filters{column-gap:18px;row-gap:12px}.filter-row{align-items:flex-start}}
